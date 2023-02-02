@@ -70,8 +70,7 @@ img {
 }
 
 .items td {
-  padding-top: 0px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 .items td span {
@@ -81,11 +80,13 @@ img {
 .items td:first-child{
   text-align: left;
   padding-left: 0px;
+  padding-top: 10px;
 }
 
 .items td:nth-child(2) {
   text-align: right;
   padding-right: 10px;
+  padding-top: 10px;
   width: 20px
 }
 
