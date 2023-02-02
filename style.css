@@ -84,7 +84,8 @@ img {
 }
 
 .items td:nth-child(2) {
-  text-align: left;
+  text-align: right;
+  padding-right: 10px;
   width: 20px
 }
 
